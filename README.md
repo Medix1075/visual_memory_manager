@@ -6,6 +6,7 @@ This project combines:
 - An educational **Toy Chest analogy**
 - A **Python CLI simulator**
 - An **interactive HTML visualization**
+- **Live Server (VS Code extension)** for real-time web UI execution
 
 ---
 
