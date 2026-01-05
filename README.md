@@ -13,6 +13,7 @@ This project combines:
 ## Table of Contents
 
 - Project Overview
+- Images
 - Features
 - Toy Chest Analogy
 - System Architecture
@@ -26,7 +27,6 @@ This project combines:
 - Limitations
 - Future Work
 - Usage Examples
-- References
 
 ---
 
@@ -38,6 +38,19 @@ This project simulates how an operating system manages memory, including allocat
 ### Components
 - **Python CLI Simulator (`simulator.py`)** – Full-featured command-line simulator
 - **HTML Visual UI (`index.html`)** – Interactive visualization of memory layout and fragmentation
+
+---
+## Images 
+### Toy Chest UI 
+<img width="1656" height="1037" alt="image" src="https://github.com/user-attachments/assets/dbbf9176-840e-45c3-83d5-463a1abb6f73" />
+<img width="1371" height="1031" alt="image" src="https://github.com/user-attachments/assets/63c4c6ac-bd3a-4e3f-8d2e-391f4aa754ef" />
+<img width="1379" height="1041" alt="image" src="https://github.com/user-attachments/assets/d3a45caa-50f3-4cd9-81f3-50dd7b30c03f" />
+
+### Python CLI Simulator
+<img width="1188" height="864" alt="image" src="https://github.com/user-attachments/assets/0f057e39-0ffe-4933-82a3-850d8d91ada1" />
+<img width="1208" height="898" alt="image" src="https://github.com/user-attachments/assets/3cbaabab-1854-40ca-b054-5e1159446081" />
+<img width="1226" height="787" alt="image" src="https://github.com/user-attachments/assets/aef99569-c55d-46f9-b9eb-48c5fce2cf6d" />
+<img width="1222" height="867" alt="image" src="https://github.com/user-attachments/assets/ff2fb52f-3fd8-4026-b2b2-21d728ec20e7" />
 
 ---
 
