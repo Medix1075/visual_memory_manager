@@ -13,6 +13,7 @@ This project combines:
 ## Table of Contents
 
 - Project Overview
+- Demo Video
 - Images
 - Features
 - Toy Chest Analogy
@@ -39,6 +40,9 @@ This project simulates how an operating system manages memory, including allocat
 - **Python CLI Simulator (`simulator.py`)** – Full-featured command-line simulator
 - **HTML Visual UI (`index.html`)** – Interactive visualization of memory layout and fragmentation
 
+---
+## Demo Video
+https://drive.google.com/drive/folders/1dpu6lO3kUVf-w9b_pL62sks1nY2s-Aim?usp=sharing
 ---
 ## Images 
 ### Toy Chest UI 
